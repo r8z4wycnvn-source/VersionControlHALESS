@@ -1,0 +1,6 @@
+@VersionControlHALES_HostAddress = http://localhost:5022
+
+GET {{VersionControlHALES_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
